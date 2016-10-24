@@ -1,0 +1,11 @@
+*{
+    margin: 10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.menu{
+    font-size: 25px;
+}
+
+.menu li{
+    display:inline-block;
+}
